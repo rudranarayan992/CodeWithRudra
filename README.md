@@ -1,28 +1,58 @@
-# CodeWithRudra
-This is my personal GitHub profile README
+# 👨‍💻 CodeWithRudra
 
-# 🙏 Hello world!!
-
-## 👋 About Me
-I am **Rudra Narayan Swain**, an aspiring Cyber Security expert and Developer 👨‍💻.  
-Currently pursuing a Diploma in Computer Science from **BOSE, Cuttack**, and building my skills in ethical hacking, Python programming, and web development.
-
-🚀 **Future Goals**: Become a B.Tech graduate and work as a Cyber Security Analyst or Developer in a top tech company.
-
-🎯 I am passionate about:
-- 🔐 Cyber Security (My strong point is Information Gathering)
-- 🧠 MERN Stack Development
-- 🐍 Python and Backend Development
-- 📊 A bit of Data Science & Machine Learning
-- 🎥 Content Creation on [YouTube](https://www.youtube.com/@CodewithRudraoffical) & [Instagram](https://www.instagram.com/codewithrudra)
-
-⚡ **Fun fact**:  
-I’m a lazy smart guy who can automate boring tasks 😴💡  
-Aliens? Yeah, I believe in them 👽  
+Welcome to my personal GitHub profile! 🚀
 
 ---
 
-## 🛠️ Skills & Tools
+## 🙏 Hello World!!
+
+## 👋 About Me
+
+I am **Rudra Narayan Swain**, an aspiring **Cyber Security Expert** and **Full-Stack Developer**, currently pursuing a **Diploma in Computer Science at BOSE, Cuttack**.
+
+I'm passionate about ethical hacking, backend development, and building meaningful software that makes tech more secure and efficient.
+
+🚀 **Career Goals**  
+To pursue **B.Tech in Computer Science** and become a **Cyber Security Analyst** or **Backend Developer** in a top-tier tech company.
+
+---
+
+## 💼 Internships & Experience
+
+- **🔐 Prodigy InfoTech – Cybersecurity Intern**  
+  ▪ Phishing simulation, vulnerability assessment, risk analysis, and incident response planning.  
+  ▪ Gained real-world experience in ethical hacking and threat modeling.
+
+- **🛡️ TechnoHacks Pvt Ltd – Cybersecurity Intern**  
+  ▪ Performed log analysis, malware detection, and virtual machine setup.  
+  ▪ Created risk assessment reports and automated tools using Python.
+
+- **🐍 Cognifyz Technologies – Python Development Intern**  
+  ▪ Developed GUI-based tools like job email/domain verifiers with WHOIS and blacklist checks.  
+  ▪ Built secure Python scripts for automation tasks.
+
+- **🦊 ShadowFox – Python Internship Tasks**  
+  ▪ Completed 10+ real-world tasks involving Python logic, list operations, dice simulation, and workout-based automation.
+
+---
+
+## 🧪 Projects & Contributions
+
+✨ Over **25+ public repositories** focused on:
+
+- Cyber Security Tools
+- Python Automation Scripts
+- Ethical Hacking Simulations
+- MERN Stack Projects
+- Machine Learning Experiments
+- Personal Portfolio & Web Tools
+
+📂 Explore my projects to learn more and ⭐ the ones you find helpful!
+
+---
+
+## 🧠 Skills & Tools
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -37,7 +67,7 @@ Aliens? Yeah, I believe in them 👽
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![Rudra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithRudra&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithRudra&layout=compact&theme=radical)
@@ -54,11 +84,12 @@ Aliens? Yeah, I believe in them 👽
 ---
 
 ### 🎧 Spotify Now Playing
-<!-- Use GitHub Action or external service to show your current track -->
+<!-- Optionally connect with a GitHub Action to show your current Spotify track -->
 
 ---
 
 ✨✨✨✨✨✨✨  
 **Thank You! 🙏🏼**  
-Feel free to explore my repos and ⭐ the ones you like 👨‍💻  
-✨✨✨✨✨✨
+Feel free to explore my repos and ⭐ the ones you like!  
+✨✨✨✨✨✨✨
+
