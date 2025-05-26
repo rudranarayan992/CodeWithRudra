@@ -32,22 +32,22 @@ To pursue **B.Tech in Computer Science** and become a **Cyber Security Analyst**
   ▪ Built secure Python scripts for automation tasks.
 
 - **🦊 ShadowFox – Python Internship Tasks**  
-  ▪ Completed 10+ real-world tasks involving Python logic, list operations, dice simulation, and workout-based automation.
+  ▪ Completed 10+ real-world tasks involving Python logic, list operations, dice simulation, and workout automation.
 
 ---
 
 ## 🧪 Projects & Contributions
 
-✨ Over **25+ public repositories** focused on:
+✨ I’ve built **25+ repositories** including:
 
-- Cyber Security Tools
-- Python Automation Scripts
+- Cyber Security Tools & Scripts
+- Python Automation Projects
 - Ethical Hacking Simulations
-- MERN Stack Projects
-- Machine Learning Experiments
-- Personal Portfolio & Web Tools
+- MERN Stack Applications
+- Data Science & Machine Learning Models
+- Developer Portfolios & Web Tools
 
-📂 Explore my projects to learn more and ⭐ the ones you find helpful!
+📂 Explore my repos and ⭐ your favorites!
 
 ---
 
@@ -67,10 +67,19 @@ To pursue **B.Tech in Computer Science** and become a **Cyber Security Analyst**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Stats
 
-![Rudra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithRudra&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithRudra&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://camo.githubusercontent.com/72a733a523071510dec449cba9afd108da48de6b12c8fe3e5827a949ac7a9707/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d436f64655769746852756472612673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="Rudra's GitHub Stats" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithRudra&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithRudra&layout=compact&theme=radical" alt="Top Languages Used" />
+</p>
 
 ---
 
@@ -84,12 +93,12 @@ To pursue **B.Tech in Computer Science** and become a **Cyber Security Analyst**
 ---
 
 ### 🎧 Spotify Now Playing
-<!-- Optionally connect with a GitHub Action to show your current Spotify track -->
+
+<!-- Optional: Add a GitHub action or widget for live Spotify status -->
 
 ---
 
 ✨✨✨✨✨✨✨  
 **Thank You! 🙏🏼**  
-Feel free to explore my repos and ⭐ the ones you like!  
+Feel free to explore my repositories and ⭐ those you find interesting!  
 ✨✨✨✨✨✨✨
-
